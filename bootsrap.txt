@@ -1,0 +1,6 @@
+* la classe container permet de centrer un div horizontalement avec un margin auto horizontal
+* la classe container-fluid prend tout l'espace de l'écran a 100% en supprimant tous les margins horizontales.
+* overflow: hidden : permet de ne pas laisser a l'extérieur les choses
+* flex-wrap: wrap: permet de retour a la ligne si l'espace n'est pas suffisante
+* dans la vue grille de bootstrap on peut maximum avoir 12 colonnes : exemple: col-8 + col-4 ou bien col-4 + col-4 + col-4
+
